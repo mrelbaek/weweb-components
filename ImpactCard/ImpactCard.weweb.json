@@ -1,0 +1,21 @@
+{
+    "name": "ImpactCard",
+    "props": [
+      {
+        "name": "label",
+        "type": "text",
+        "default": "Manual Data Entry"
+      },
+      {
+        "name": "value",
+        "type": "number",
+        "default": 8400
+      },
+      {
+        "name": "max",
+        "type": "number",
+        "default": 10610
+      }
+    ]
+  }
+  
